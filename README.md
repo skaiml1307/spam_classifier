@@ -87,3 +87,7 @@ streamlit run app.py
 
 The application is deployed using **Streamlit Community Cloud**.
 
+## Live Application
+
+https://spamclassifier-ncfxpwxcu7wrdvvjco5ns6.streamlit.app/
+
