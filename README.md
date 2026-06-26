@@ -39,7 +39,7 @@ A Machine Learning-based web application that classifies Email and SMS messages 
 ##  Models Evaluated
 
 - Gaussian Naive Bayes
-- Multinomial Naive Bayes ✅ (Selected Model)
+- Multinomial Naive Bayes (Selected Model)
 - Bernoulli Naive Bayes
 - Logistic Regression
 - Support Vector Machine
